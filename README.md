@@ -19,7 +19,7 @@ A library management system is a very useful and user-friendly tool for all libr
 * Sql server with port no 3307
 
 
-# How to use
+## How to use
 
 1. Download the setup file using the provided link inside the 'LMS Setup file' folder.
 2. install the setup and run the program.
